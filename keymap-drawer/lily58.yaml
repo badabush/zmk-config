@@ -13,8 +13,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Vol Down
+  - VOLUME UP
   - {t: ▽, type: trans}
   - F1
   - F2
